@@ -1,0 +1,4 @@
+/home/localhostj/Downloads/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/localhostj/Downloads/clion-2023.2.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/localhostj/kurs3 -B /home/localhostj/kurs3/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/localhostj/kurs3/cmake-build-debug
